@@ -1,7 +1,7 @@
 rails s to serve the app
 
 HTML:
-	- include in header: <script src='https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/3.0.3/handlebars.js'></script>
+	- include handlebars in header
 	- write an "area" div in which grab in jquery and to append your template
 	- write a template script
 			- always make script type “text/x-handlebars-template”
